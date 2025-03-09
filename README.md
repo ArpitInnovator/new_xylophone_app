@@ -1,16 +1,17 @@
-# new_xylophone_app
+# Quiz App
 
-A new Flutter project.
+This Quiz App built with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/). It shows users a series of True/False questions, keeps track of correct/incorrect answers, and displays the final score.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Intuitive UI:** Clean and simple layout for displaying questions and True/False buttons.
+- **Progress Tracking:** Shows how many questions have been answered correctly or incorrectly.
+- **Instant Feedback:** Provides immediate feedback for each question.
+- **Responsive Design:** Consistent look and feel across different screen sizes and devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Question Screen |
+|-----------------|
+| ![Quiz App Question](![WhatsApp Image 2025-03-09 at 16 27 05_ddd14c91](https://github.com/user-attachments/assets/498fde55-4e16-443b-9b1e-dce4e52a0d73)
+) |
