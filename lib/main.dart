@@ -18,6 +18,7 @@ class XylophoneApp extends StatelessWidget {
 
   Expanded buildKey({required Color color, required int soundNumber}) {
     return Expanded(
+
       child: TextButton(
         style: TextButton.styleFrom(
           backgroundColor: color, // Set the button color
@@ -36,6 +37,7 @@ class XylophoneApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(title: Text('Xylophone app'),
